@@ -41,3 +41,9 @@ By doing this project, I learned a lot, especially giving structure to a project
 ## Calculator UI:
 
 ![Screen Shot 2019-07-12 at 8 32 07 PM](https://user-images.githubusercontent.com/47591726/61166560-7d1c0d80-a4e4-11e9-9c42-71d289dd11de.png)
+
+![Screen Shot 2019-07-12 at 8 28 10 PM](https://user-images.githubusercontent.com/47591726/61177255-595cd400-a585-11e9-94a7-ccfbae339439.png)
+
+![Screen Shot 2019-07-12 at 8 28 19 PM](https://user-images.githubusercontent.com/47591726/61177259-5d88f180-a585-11e9-88a0-772dba8fa43f.png)
+
+
