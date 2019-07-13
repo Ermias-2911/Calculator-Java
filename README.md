@@ -38,5 +38,6 @@ Project reflects the designing and architecture of a program having complex algo
 Project Conclusions & results:
 By doing this project, I learned a lot, especially giving structure to a project and dividing the complex code into chunks by creating sub-classes or by creating methods. After doing this project, now I am able to handle the user interface events. 
 
+## Calculator UI:
 
-
+![Screen Shot 2019-07-12 at 8 32 07 PM](https://user-images.githubusercontent.com/47591726/61166560-7d1c0d80-a4e4-11e9-9c42-71d289dd11de.png)
